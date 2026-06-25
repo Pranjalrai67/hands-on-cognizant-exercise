@@ -1,7 +1,7 @@
-# Solutions
+# Deep Skilling Solutions 
 
-This folder contains completed solutions for the hands-on exercises in:
-
+This Repository contains completed solutions for the hands-on exercises in :
+- **Engineering Concepts/** - Contains Basic DSA And DAA solutions
 - **GIT/** — Git HOL labs 1–5 (command guides + sample files)
 - **JUnit-Mockito-SL4J/** — Maven project with JUnit, Mockito, Spring, and SLF4J exercises
 - **Microservices/** — Multi-module Spring Boot 3 / Spring Cloud project (Eureka, gateway, Feign, Resilience4j)
